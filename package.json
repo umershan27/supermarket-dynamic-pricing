@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "@types/winston": "^2.4.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.8",
+    "@mui/x-data-grid": "^7.28.0",
+    "@testing-library/react": "^14.3.1",
+    "axios": "^1.8.4",
+    "csv-parse": "^5.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "winston": "^3.17.0"
+  }
+}

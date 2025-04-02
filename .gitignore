@@ -1,0 +1,14 @@
+# Ignore CSV files
+*.csv
+
+# Ignore Node.js dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+ml-service/node_modules/
+
+# Ignore package-lock files
+package-lock.json
+frontend/package-lock.json
+backend/package-lock.json 
+ml-service/package-lock.json
